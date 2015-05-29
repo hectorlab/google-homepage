@@ -1,0 +1,28 @@
+nav ul {
+	padding: 20px;
+	float: right;
+}
+
+li {
+	margin-left: 4px;
+	display: inline;
+}
+
+ul li {
+	display: inline;
+	margin-left: 10px;
+}
+
+li a {
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	padding-left: 7px;
+	color: black;
+}
+
+
+li a:hover {
+	text-decoration: underline;
+	color: #000;
+}
