@@ -26,3 +26,109 @@ li a:hover {
 	text-decoration: underline;
 	color: #000;
 }
+
+#btn-login {
+	background-color: #4285F4;
+	color: #FFF;
+	padding: 0 12px 0 12px;
+	font-weight: 700;
+	line-height: 28px;
+	border: 0;
+}
+
+
+.container {
+	padding-top: 175px;
+}
+
+.logo {
+	height: 95px;
+	width: 269px;
+	background-image: url(Googlelogo.png);
+	background-size: 269px 95px;
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+
+	
+}
+
+/*
+#searchbox {
+	margin-right: auto;
+	margin-left: auto;
+}
+*/
+#center {
+	width: 571px;
+	height: 51px;
+	padding-top: 2px;
+	display: inline;
+}
+
+
+
+form {
+	width:519px;
+	margin-top: 5;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+input {
+	width: 519px;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 19.2px;
+	font-size: 28px;
+}
+
+
+footer {
+	position: absolute;
+	background-color: #E4E4E4;
+	color: #666;
+	height: 40px;
+	width: 1351px;
+	bottom: 0;
+	/*border-top-width: 1px;
+	border-top-style: solid;*/
+	color: #222;
+
+}
+
+#left {
+	float: left;
+	color: #666;
+	margin: 10px 15px 10px 15px;
+}
+
+footer ul {
+	text-decoration-color: #666;
+	color: #666;
+}
+
+#right {
+	float: right;
+	color: #666;
+	margin: 10px 15px 10px 15px;
+}
+
+#buttons input {
+	width: 110px;
+	padding: 2px 15px 2px 15px;
+	margin: 10px 5px 10px 5px;
+	margin-bottom: 10px;
+	color:#444;
+	font-weight: bold;
+	font-size: 0.8em;
+	text-align: center;
+	display: inline;
+	 background-color: -moz-linear-gradient(center top , #F5F5F5, #F1F1F1);
+
+}
+
+#buttons input #button1 {
+
+}
